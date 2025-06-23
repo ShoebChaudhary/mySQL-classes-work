@@ -1,7 +1,7 @@
 # mySQL-classes-work
 ![image](https://github.com/user-attachments/assets/2254fa44-d74f-4902-a3bf-c28e5bae75f0)
 
-#📘 mysql-classes-work
+# 📘 mySQL-Classes-Work
 
 ---
 This repository contains a comprehensive collection of my learning journey and practical implementations during MySQL classes. It includes all the structured and self-driven work I’ve completed to strengthen my database skills through real-time exercises and scenarios.
